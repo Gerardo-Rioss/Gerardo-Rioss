@@ -1,3 +1,6 @@
+<img width="2000" height="600" alt="Banner" src="https://github.com/user-attachments/assets/de14ee3a-7c5b-473b-8b3a-ad5bc5cc6e5b" />
+
+
 👋 ¡Hola! Soy Gerardo Rios - Analista de Sistemas de Información - Desarrollador Fullstacks Junior
 
 👀 Estoy interesado en el desarrollo de software, el análisis de datos y la resolución de problemas técnicos. Me apasiona cómo la tecnología puede transformar procesos y hacerlos más eficientes.
