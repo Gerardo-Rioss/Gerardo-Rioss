@@ -1,40 +1,204 @@
-<img width="2000" height="600" alt="Banner" src="https://github.com/user-attachments/assets/de14ee3a-7c5b-473b-8b3a-ad5bc5cc6e5b" />
+<div align="center">
 
+![Banner](https://github.com/user-attachments/assets/de14ee3a-7c5b-473b-8b3a-ad5bc5cc6e5b)
 
-👋 ¡Hola! Soy Gerardo Rios 
+# Gerardo German Rios
+### Analista de Sistemas · Full Stack Developer JR
 
-👤 Acerca de mí
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardrioss/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rios-gerardo.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarios26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss)
 
-Analista de Sistemas con orientación al desarrollo Full Stack, soporte técnico y análisis de datos. Experiencia en la creación de soluciones web, de escritorio y dashboards interactivos. Manejo tecnologías como .NET (C#, VB.NET), Python, React, TypeScript, Django, SQL, Power BI, entre otras. Apasionado por diseñar software que optimice procesos y genere valor real en las organizaciones.
+![Profile Views](https://komarev.com/ghpvc/?username=Gerardo-Rioss&color=2E7CF6&style=for-the-badge)
 
-### 🛠️ Stack Tecnológico
-- **Lenguajes:** JavaScript, TypeScript, Python, C#, VB.NET, SQL
-- **Frameworks Frontend:** React, Material-UI, Tailwind CSS
-- **Frameworks Backend:** Django, .NET Framework, Node.js
-- **Bases de datos:** SQL Server, PostgreSQL, SQLite
-- **Herramientas:** Git, Power BI, Vite, Visual Studio
+</div>
 
-### 📂 Proyectos Destacados
+---
 
-#### 🛍️ [E-commerce React](https://github.com/Gerardo-Rioss/Clon_Ecommerce_React)
-Clon de Mercado Libre desarrollado con React 19 y TypeScript. Incluye carrito persistente, sistema de checkout y diseño responsive.
+## 👤 Sobre mí
 
-**Tecnologías:** React, TypeScript, Vite, Material-UI, React Query, Formik, Yup, Axios
+Soy **Analista de Sistemas** con orientación al desarrollo **Full Stack** y experiencia
+en aplicaciones web, de escritorio y análisis de datos.
 
-**Características:** Catálogo de productos con filtrado, búsqueda en tiempo real, carrito persistente, proceso de checkout completo, diseño 100% responsive
+Me especializo en construir soluciones escalables combinando desarrollo frontend moderno
+con backends robustos y análisis estratégico de la información con Power BI.
 
-#### 👨‍🍳 [Blog de Cocina Django](https://github.com/Gerardo-Rioss/Blog_Cocina-Django_Python)
-Plataforma de blogging culinario con sistema de roles y permisos avanzados.
+- 🏠 Barranqueras, Chaco — Argentina
+- 💼 +13 años de experiencia en soporte técnico y sistemas
+- 🎓 Analista de Sistemas · 4 certificaciones Informatorio 2024/2025
+- 🌱 Actualmente profundizando en **Java + Spring Boot** y **React + TypeScript**
+- 🤝 Disponible para trabajo remoto, híbrido o presencial
+- ⚡ Me apasiona transformar datos y procesos en soluciones que generan valor real
 
-**Tecnologías:** Django 4.2+, Python, HTML5, CSS3, JavaScript, Bootstrap, PostgreSQL
+---
 
-**Características:** Sistema de roles (usuario, colaborador, administrador), comentarios anidados, categorías de recetas, búsqueda por ingredientes, perfiles de usuario personalizables
+## 🛠️ Stack Tecnológico
 
-#### 📊 [Dashboard Power BI](https://github.com/Gerardo-Rioss/Data_Analytics-Power_BI)
-Dashboard interactivo para análisis de datos y visualización de métricas empresariales.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tecnologías:** Power BI, DAX, Power Query, SQL
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Data & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ Ecommerce React — Clon Mercado Libre
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/Clon_Ecommerce_React)
+
+Plataforma de e-commerce con catálogo, filtros dinámicos, carrito persistente y checkout completo.
+
+**Stack:** React · TypeScript · Vite · Material-UI · Axios
+
+</td>
+<td width="50%">
+
+### 📓 API REST — Diario Personal
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/java_spring)
+
+Backend de app de bienestar con filtros dinámicos, arquitectura en capas y manejo centralizado de errores.
+
+**Stack:** Java · Spring Boot · Spring Data JPA · REST
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👨‍🍳 Blog de Cocina Full Stack
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/Blog_Cocina-Django_Python)
+
+Blog colaborativo con roles jerárquicos, publicaciones, comentarios y panel de administración.
+
+**Stack:** Django · Python · PostgreSQL · Bootstrap
+
+</td>
+<td width="50%">
+
+### ⚡ Django CRUD + React
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/django_crud_react)
+
+App full-stack moderna con API RESTful, operaciones CRUD completas y diseño responsive.
+
+**Stack:** Django REST Framework · React 19 · Tailwind CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Dashboard de Análisis de Ventas
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/Data_Analytics-Power_BI)
+
+Dashboard interactivo con KPIs, drill-down por región y filtros dinámicos para análisis estratégico.
+
+**Stack:** Power BI · DAX · Power Query · SQL
+
+</td>
+<td width="50%">
+
+### 💈 Griffith's — Sistema para Peluquería
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/Griffith-Sistema_Integral_Peluqueria)
+
+App de escritorio para gestión de stock, agenda de citas, clientes y reportes financieros.
+
+**Stack:** C# · .NET Framework · SQL Server · Windows Forms
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👗 JuliJo — Showroom de Ropa
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/JuliJo-Sistema_Gestion_Showroom_Ropa)
+
+Sistema de gestión de ventas, inventario y clientes con reportes automáticos.
+
+**Stack:** VB.NET · .NET Framework · SQL Server · Crystal Reports
+
+</td>
+<td width="50%">
+
+### 🍔 MrBrook — Hamburguesería
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/MrBrook-Sistema_Integral_Hamburgueseria)
+
+Sistema integral de pedidos, inventario, proveedores y facturación para gastronomía.
+
+**Stack:** VB.NET · .NET Framework · SQL Server CE · Crystal Reports
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Gerardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerardo-Rioss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardo-Rioss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gerardo-Rioss&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certificaciones
+
+| Curso | Institución | Año |
+|-------|-------------|-----|
+| ☕ Java con Spring Boot | Informatorio Chaco | 2025 |
+| ⚛️ Desarrollo Web con React | Informatorio Chaco | 2025 |
+| 🐍 Desarrollo Web con Django & Python | Informatorio Chaco | 2024 |
+| 📊 Data Analytics con Power BI | Informatorio Chaco | 2024 |
+
+---
+
+<div align="center">
+
+### 💬 "Transformo datos y procesos en soluciones que generan valor real."
+
+📫 **gerarios26@gmail.com** · 📍 **Barranqueras, Chaco, Argentina**
+
+</div>
 **Características:** Análisis exploratorio de datos (EDA), visualizaciones interactivas, KPIs de rendimiento, reportes exportables, modelado de datos optimizado
 
 #### ⚡ [Django CRUD con React](https://github.com/Gerardo-Rioss/django_crud_react)
