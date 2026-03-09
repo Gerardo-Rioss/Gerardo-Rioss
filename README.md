@@ -199,7 +199,6 @@ Sistema integral de pedidos, inventario, proveedores y facturación para gastron
 📫 **gerarios26@gmail.com** · 📍 **Barranqueras, Chaco, Argentina**
 
 </div>
-**Características:** Análisis exploratorio de datos (EDA), visualizaciones interactivas, KPIs de rendimiento, reportes exportables, modelado de datos optimizado
 
 #### ⚡ [Django CRUD con React](https://github.com/Gerardo-Rioss/django_crud_react)
 Aplicación full-stack moderna con operaciones CRUD completas y API RESTful.
