@@ -2,8 +2,6 @@
 
 ![Banner](https://github.com/user-attachments/assets/de14ee3a-7c5b-473b-8b3a-ad5bc5cc6e5b)
 
-# Gerardo German Rios
-### Analista de Sistemas · Full Stack Developer JR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardrioss/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rios-gerardo.netlify.app/)
