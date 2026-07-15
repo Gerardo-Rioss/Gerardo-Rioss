@@ -1,3 +1,7 @@
+# 👋 Gerardo Germán Ríos
+
+**Full Stack Developer** · Barranqueras, Chaco, Argentina 🇦🇷
+
 <div align="center">
 
 ![Banner](https://github.com/user-attachments/assets/de14ee3a-7c5b-473b-8b3a-ad5bc5cc6e5b)
@@ -16,14 +20,12 @@
 
 ## 👤 Sobre mí
 
-Soy **Analista de Sistemas** con orientación al desarrollo **Full Stack** y experiencia
-en aplicaciones web, de escritorio y análisis de datos.
+Soy **Analista de Sistemas** con orientación al desarrollo **Full Stack** y más de 13 años de experiencia en IT. Actualmente trabajo en **InSSSeP (Instituto de Seguridad Social del Chaco)** desde 2012, donde combino desarrollo de aplicaciones con soporte técnico y análisis de sistemas.
 
-Me especializo en construir soluciones escalables combinando desarrollo frontend moderno
-con backends robustos y análisis estratégico de la información con Power BI.
+Me especializo en construir soluciones web modernas con **React, TypeScript y Next.js** en el frontend, y **Node.js, Python (Django) y Java (Spring Boot)** en el backend. También tengo experiencia en aplicaciones de escritorio con **C# y .NET**, y análisis de datos con **Power BI**.
 
 - 🏠 Barranqueras, Chaco — Argentina
-- 💼 +13 años de experiencia en soporte técnico y sistemas
+- 💼 **InSSSeP** — Analista/Dev (2012 - actualidad)
 - 🎓 Analista de Sistemas · 4 certificaciones Informatorio 2024/2025
 - 🌱 Actualmente profundizando en **Java + Spring Boot** y **React + TypeScript**
 - 🤝 Disponible para trabajo remoto, híbrido o presencial
@@ -178,6 +180,10 @@ Sistema integral de pedidos, inventario, proveedores y facturación para gastron
 
 </div>
 
+<br>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gerardo-Rioss&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
 ---
 
 ## 🎓 Certificaciones
@@ -198,34 +204,3 @@ Sistema integral de pedidos, inventario, proveedores y facturación para gastron
 📫 **gerarios26@gmail.com** · 📍 **Barranqueras, Chaco, Argentina**
 
 </div>
-
-#### ⚡ [Django CRUD con React](https://github.com/Gerardo-Rioss/django_crud_react)
-Aplicación full-stack moderna con operaciones CRUD completas y API RESTful.
-
-**Tecnologías:** Django 5.2.5, Django REST Framework, React 19, Tailwind CSS, Python, SQLite
-
-**Características:** API RESTful con Django, frontend responsive con React, validación de formularios, operaciones CRUD completas, diseño moderno con Tailwind CSS
-
-#### 💈 [Griffith - Sistema de Peluquerías](https://github.com/Gerardo-Rioss/Griffith-Sistema_Integral_Peluqueria)
-Sistema integral de gestión para peluquerías con control de inventario, citas y reportes financieros.
-
-**Tecnologías:** .NET Framework, C#, Windows Forms, SQL Server, Metro UI
-
-**Características:** Gestión de inventario con alertas automáticas, sistema de citas con recordatorios, fidelización de clientes, reportes financieros y análisis de negocio
-
-#### 👗 [JuliJo - Sistema Showroom de Ropa](https://github.com/Gerardo-Rioss/JuliJo-Sistema_Gestion_Showroom_Ropa)
-Sistema de gestión comercial para showroom de ropa con control de ventas, inventario y clientes.
-
-**Tecnologías:** VB.NET, .NET Framework 4.0, Windows Forms, SQL Server, Crystal Reports
-
-**Características:** Registro de ventas con múltiples productos, control de stock con alertas, gestión de clientes con historial de compras, reportes de ventas e inventario
-
-#### 🍔 [MrBrook - Sistema Hamburguesería](https://github.com/Gerardo-Rioss/MrBrook-Sistema_Integral_Hamburgueseria)
-Sistema integral de gestión para hamburguesería con toma de pedidos y control de inventario.
-
-**Tecnologías:** VB.NET, .NET Framework 3.5, SQL Server CE, Windows Forms, Crystal Reports
-
-**Características:** Toma de pedidos con personalización, control de inventario, gestión de proveedores, facturación integrada, reportes de ventas
-
-
-📫 Puedes contactarme a través de [www.linkedin.com/in/gerardrioss
