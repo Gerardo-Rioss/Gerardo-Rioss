@@ -76,22 +76,23 @@ con backends robustos y análisis estratégico de la información con Power BI.
 <tr>
 <td width="50%">
 
+### 💰 Control Cuentas — Finanzas Personales
+[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/control-cuentas-web)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://control-cuentas-6okkse5b4-gerariosdev-projects.vercel.app)
+
+Dashboard interactivo con gráficos, CRUD de movimientos y categorías, autenticación segura y modo oscuro. Deploy automático con Vercel + Neon PostgreSQL.
+
+**Stack:** Next.js 16 · TypeScript · Prisma 7 · PostgreSQL · Tailwind v4 · shadcn/ui · NextAuth v5 · Recharts · Vitest
+
+</td>
+<td width="50%">
+
 ### 🛍️ Ecommerce React — Clon Mercado Libre
 [![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/Clon_Ecommerce_React)
 
 Plataforma de e-commerce con catálogo, filtros dinámicos, carrito persistente y checkout completo.
 
 **Stack:** React · TypeScript · Vite · Material-UI · Axios
-
-</td>
-<td width="50%">
-
-### 📓 API REST — Diario Personal
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss/java_spring)
-
-Backend de app de bienestar con filtros dinámicos, arquitectura en capas y manejo centralizado de errores.
-
-**Stack:** Java · Spring Boot · Spring Data JPA · REST
 
 </td>
 </tr>
