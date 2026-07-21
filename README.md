@@ -8,7 +8,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardrioss/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rios-gerardo.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://gerariosdev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarios26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gerardo-Rioss)
 
